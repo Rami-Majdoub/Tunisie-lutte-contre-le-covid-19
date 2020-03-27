@@ -11,5 +11,5 @@ jobs:
       - checkout
       - run:
           command: |
-            sudo chmod +x ./gradlew
+            sudo chmod +x ./android/gradlew
             ./android/gradlew build
