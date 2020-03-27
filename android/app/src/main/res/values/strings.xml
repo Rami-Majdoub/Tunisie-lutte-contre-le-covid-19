@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COVID-19</string>
+    <string name="title">Tunisie lutte contre COVID-19</string>
+    <string name="protect">1. comment vous protéger de COVID-19</string>
+    <string name="add_contact">2. amis contactée</string>
+    <string name="contacts_infected">3. liste des contacts infectées</string>
+    <string name="got_infected">4. je suis infectée</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity"
+    android:background="@color/colorPrimary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/title"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            android:textColor="@color/colorText"/>
+
+        <Button
+            android:id="@+id/button1"
+            style="@style/button_style"
+            android:text="@string/protect" />
+
+        <Button
+            android:id="@+id/button2"
+            style="@style/button_style"
+            android:text="@string/add_contact" />
+
+        <Button
+            android:id="@+id/button3"
+            style="@style/button_style"
+            android:text="@string/contacts_infected" />
+
+        <Button
+            android:id="@+id/button4"
+            style="@style/button_style"
+            android:text="@string/got_infected" />
+    </LinearLayout>
+
+</LinearLayout>
