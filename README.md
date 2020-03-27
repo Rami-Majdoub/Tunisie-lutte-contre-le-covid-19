@@ -1,6 +1,6 @@
 # Tunisie-lutte-contre-le-covid-19
 
-Ce projet est un essaie de localiser les personne infectées par COVID-19
+Ce projet est un essai de localiser les personnes infectées par COVID-19
 
 ## les interfaces:
 1. comment vous protéger de COVID-19
